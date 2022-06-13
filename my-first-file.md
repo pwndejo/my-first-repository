@@ -3,8 +3,6 @@
 Cell#302-688-5470
 Email: ksant82827@gmail.com
 
-## Kevin S. Santiago
-
 ## Objective
 Individual driven by results seeking a position within the tech industry in an effort to use exceptional organizational and leadership skills. Years of experience in varying fields from customer facing day-to-day interactions to back-of-house logistical processes. 
 
