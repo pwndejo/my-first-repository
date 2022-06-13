@@ -1,0 +1,16 @@
+  112  mkdir some-webpage-file.html
+  113  ls
+  114  nano some-text-file.txt
+  115  cat some-text-file.txt
+  116  cd ..
+  117  pwd
+  118  ls
+  119  rmdir ./empty-directory
+  120  ls
+  121  rm ./non-empty-directory
+  122  rmdir ./non-empty-directory
+  123  ls
+  124  rm -rf ./non-empty-directory
+  125  lf
+  126  ls
+  127  history
